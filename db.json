@@ -1,0 +1,34 @@
+{
+    "users":[
+          
+        {
+            "id":"user_id_1",
+            "name":"friend",
+            "email":"friend@gmail.com",
+            "password" : "password123"
+        }
+    ],
+    "dealers":[
+        {
+            "dealer_id":"dealer_id_1",
+            "name":"ramu",
+            "email":"ramu@gmail.com",
+            "password":"password123",
+            "company_name" : "xyz",
+            "mobile" : 8500230074,
+            "isActive" : true,
+            "payment" : []
+        }
+    ],
+    "products" : [
+        {
+            "product_id" : 101,
+            "product_title" :"Sona masoori",
+            "price" : 120,
+            "quantity" : 25
+
+        }
+    ]
+
+
+}
