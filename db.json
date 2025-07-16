@@ -1,34 +1,103 @@
 {
-    "users":[
-          
-        {
-            "id":"user_id_1",
-            "name":"friend",
-            "email":"friend@gmail.com",
-            "password" : "password123"
-        }
-    ],
-    "dealers":[
-        {
-            "dealer_id":"dealer_id_1",
-            "name":"ramu",
-            "email":"ramu@gmail.com",
-            "password":"password123",
-            "company_name" : "xyz",
-            "mobile" : 8500230074,
-            "isActive" : true,
-            "payment" : []
-        }
-    ],
-    "products" : [
-        {
-            "product_id" : 101,
-            "product_title" :"Sona masoori",
-            "price" : 120,
-            "quantity" : 25
-
-        }
-    ]
-
-
+  "users": [
+    {
+      "id": "user_id_1",
+      "name": "friend",
+      "email": "friend@gmail.com",
+      "password": "password123"
+    },
+    {
+      "id": "user_id_2",
+      "name": "mahanth",
+      "email": "mahanthreddy@gmail.com",
+      "password": "mahanth123"
+    },
+    {
+      "id": "user_id_3",
+      "name": "sreenu",
+      "email": "sreenu@gmail.com",
+      "password": "sreenu@123"
+    },
+    {
+      "id": "user_id_4",
+      "name": "sham",
+      "email": "sham@gmail.com",
+      "password": "sham@123"
+    },
+    {
+      "id": "user_id_5",
+      "name": "rakesh",
+      "email": "rakesh@gmail.com",
+      "password": "rakesh@123"
+    }
+  ],
+  "dealers": [
+    {
+      "dealer_id": "dealer_id_1",
+      "name": "ramu",
+      "email": "ramu@gmail.com",
+      "password": "password123",
+      "company_name": "xyz",
+      "mobile": 8500230074,
+      "isActive": true,
+      "payment": [],
+      "id": "6f50"
+    },
+    {
+      "id": "0233",
+      "dealer_id": "dealer_id_2",
+      "name": "ravi",
+      "email": "ravi@gmail.com",
+      "password": "ravi123",
+      "company_name": "social tek",
+      "mobile": 789789978,
+      "isActive": true,
+      "payment": []
+    },
+    {
+      "id": "fd8c",
+      "dealer_id": "dealer_id_3",
+      "name": "dhana",
+      "email": "dhana@gmail.com",
+      "password": "dhana123",
+      "company_name": "vajra.ai",
+      "mobile": 897989889,
+      "isActive": true,
+      "payment": []
+    },
+    {
+      "id": "f5bc",
+      "dealer_id": "dealer_id_3",
+      "name": "rolex",
+      "email": "rolex123@gmail.com",
+      "password": "rolex@123",
+      "company_name": "vajra.ai",
+      "mobile": 798976019,
+      "isActive": true,
+      "payment": []
+    }
+  ],
+  "products": [
+    {
+      "product_id": 101,
+      "product_title": "Sona masoori",
+      "price": 120,
+      "quantity": 25,
+      "id": "3fee"
+    },
+    {
+      "id": "afe5",
+      "product_id": 102,
+      "product_title": "kurnool",
+      "price": 170,
+      "quantity": 25
+    },
+    {
+      "id": "c6bd",
+      "product_id": 103,
+      "product_title": "Nellore masoori",
+      "price": 190,
+      "quantity": 25
+    }
+  ]
 }
